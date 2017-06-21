@@ -1,6 +1,6 @@
 *.json
 *.json.xz
-
+node_modules
 
 # Jupyter
 *.log
