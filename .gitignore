@@ -1,0 +1,8 @@
+*.json
+*.json.xz
+
+
+# Jupyter
+*.log
+metastore_db
+.ipynb*
