@@ -1,6 +1,8 @@
 *.json
 *.json.xz
 node_modules
+*.pickle
+*.csv
 
 # Jupyter
 *.log
