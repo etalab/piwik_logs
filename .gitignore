@@ -3,6 +3,7 @@
 node_modules
 *.pickle
 *.csv
+*.tar.xz
 
 # Jupyter
 *.log
