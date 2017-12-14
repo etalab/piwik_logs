@@ -1,3 +1,4 @@
+*.zip
 *.json
 *.json.xz
 node_modules
@@ -5,7 +6,7 @@ node_modules
 *.csv
 *.tar.xz
 *.gml
-
+raw_visit_logs/
 # Jupyter
 *.log
 metastore_db
