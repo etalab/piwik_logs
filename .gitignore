@@ -1,4 +1,5 @@
 .DS_Store
+parsed_logs/
 *.zip
 *.json
 *.json.xz
