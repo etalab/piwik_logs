@@ -13,3 +13,5 @@ raw_visit_logs/
 *.log
 metastore_db
 .ipynb*
+__pycache__/
+__init__.py
