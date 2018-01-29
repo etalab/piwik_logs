@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.0</creator>
+      <lastmodified>29/01/2018</lastmodified>
+    </meta>
+    <nodes>
+      <node id="base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret" label="base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret" />
+      <node id="entreprises-immatriculees-en-2017" label="entreprises-immatriculees-en-2017" />
+      <node id="repertoire-national-des-associations-rna" label="repertoire-national-des-associations-rna" />
+      <node id="chiffres-cles-2017" label="chiffres-cles-2017" />
+      <node id="cadastre" label="cadastre" />
+      <node id="base-officielle-des-codes-postaux" label="base-officielle-des-codes-postaux" />
+      <node id="geofla-r" label="geofla-r" />
+      <node id="correspondance-code-insee-code-postal" label="correspondance-code-insee-code-postal" />
+      <node id="None" label="None" />
+      <node id="pci-vecteur-plan-cadastral-informatise" label="pci-vecteur-plan-cadastral-informatise" />
+      <node id="decoupage-administratif-communal-francais-issu-d-openstreetmap" label="decoupage-administratif-communal-francais-issu-d-openstreetmap" />
+      <node id="geofla-limites-des-communes-en-france" label="geofla-limites-des-communes-en-france" />
+      <node id="limites-administratives-francaises-issues-d-openstreetmap" label="limites-administratives-francaises-issues-d-openstreetmap" />
+      <node id="population" label="population" />
+      <node id="correspondance-entre-les-codes-postaux-et-codes-insee-des-communes-francaises" label="correspondance-entre-les-codes-postaux-et-codes-insee-des-communes-francaises" />
+      <node id="troncons-de-cours-deau-vigicrues-simplifies-avec-niveau-de-vigilance-crues-2" label="troncons-de-cours-deau-vigicrues-simplifies-avec-niveau-de-vigilance-crues-2" />
+      <node id="hauteurs-deau-et-debits-des-cours-deau-observes-en-temps-reel-aux-stations-du-reseau-vigicrues" label="hauteurs-deau-et-debits-des-cours-deau-observes-en-temps-reel-aux-stations-du-reseau-vigicrues" />
+      <node id="ban-base-adresse-nationale" label="ban-base-adresse-nationale" />
+      <node id="listes-des-communes-geolocalisees-par-regions-departements-circonscriptions-nd" label="listes-des-communes-geolocalisees-par-regions-departements-circonscriptions-nd" />
+      <node id="contours-des-departements-francais-issus-d-openstreetmap" label="contours-des-departements-francais-issus-d-openstreetmap" />
+      <node id="carte-des-departements-2" label="carte-des-departements-2" />
+      <node id="contours-des-regions-francaises-sur-openstreetmap" label="contours-des-regions-francaises-sur-openstreetmap" />
+      <node id="service-public-fr-annuaire-de-l-administration-base-de-donnees-locales" label="service-public-fr-annuaire-de-l-administration-base-de-donnees-locales" />
+      <node id="referentiel-de-lorganisation-administrative-de-letat" label="referentiel-de-lorganisation-administrative-de-letat" />
+      <node id="fichier-des-prenoms-edition-2016" label="fichier-des-prenoms-edition-2016" />
+      <node id="repertoire-des-logements-locatifs-des-bailleurs-sociaux-rpls" label="repertoire-des-logements-locatifs-des-bailleurs-sociaux-rpls" />
+      <node id="produits-alimentaires-ingredients-nutrition-labels" label="produits-alimentaires-ingredients-nutrition-labels" />
+      <node id="base-officielle-des-codes-postaux-1" label="base-officielle-des-codes-postaux-1" />
+      <node id="adresse-et-geolocalisation-des-etablissements-denseignement-du-premier-et-second-degres" label="adresse-et-geolocalisation-des-etablissements-denseignement-du-premier-et-second-degres" />
+      <node id="finess-extraction-du-fichier-des-etablissements" label="finess-extraction-du-fichier-des-etablissements" />
+      <node id="base-de-donnees-accidents-corporels-de-la-circulation" label="base-de-donnees-accidents-corporels-de-la-circulation" />
+      <node id="base-de-donnees-des-accidents-corporels-de-la-circulation" label="base-de-donnees-des-accidents-corporels-de-la-circulation" />
+      <node id="liste-publique-des-organismes-de-formation-l-6351-7-1-du-code-du-travail" label="liste-publique-des-organismes-de-formation-l-6351-7-1-du-code-du-travail" />
+      <node id="data-insee-sur-les-communes" label="data-insee-sur-les-communes" />
+      <node id="balances-comptables-des-communes" label="balances-comptables-des-communes" />
+      <node id="faits-constates-mensuels-par-departements" label="faits-constates-mensuels-par-departements" />
+      <node id="associations" label="associations" />
+      <node id="monuments-historiques-liste-des-immeubles-proteges-au-titre-des-monuments-historiques" label="monuments-historiques-liste-des-immeubles-proteges-au-titre-des-monuments-historiques" />
+      <node id="immeubles-proteges-au-titre-des-monuments-historiques" label="immeubles-proteges-au-titre-des-monuments-historiques" />
+      <node id="associations-reconnues-d-utilite-publique" label="associations-reconnues-d-utilite-publique" />
+      <node id="fondations-reconnues-d-utilite-publique" label="fondations-reconnues-d-utilite-publique" />
+      <node id="registre-parcellaire-graphique-rpg-contours-des-ilots-culturaux-et-leur-groupe-de-cultures-majoritaire" label="registre-parcellaire-graphique-rpg-contours-des-ilots-culturaux-et-leur-groupe-de-cultures-majoritaire" />
+      <node id="referentiel-a-grande-echelle-rge" label="referentiel-a-grande-echelle-rge" />
+      <node id="marche-du-travail" label="marche-du-travail" />
+      <node id="base-permanente-des-equipements-1" label="base-permanente-des-equipements-1" />
+      <node id="base-d-adresses-nationale-ouverte-bano" label="base-d-adresses-nationale-ouverte-bano" />
+      <node id="contours-osm-des-cantons-electoraux-departementaux-2015" label="contours-osm-des-cantons-electoraux-departementaux-2015" />
+      <node id="contours-geographiques-des-academies" label="contours-geographiques-des-academies" />
+      <node id="stations-et-gares-de-metro-rer-et-tramway-de-la-region-ile-de-france" label="stations-et-gares-de-metro-rer-et-tramway-de-la-region-ile-de-france" />
+      <node id="fichier-consolide-des-bornes-de-recharge-pour-vehicules-electriques-irve" label="fichier-consolide-des-bornes-de-recharge-pour-vehicules-electriques-irve" />
+      <node id="referentiel-de-donnees-marches-publics" label="referentiel-de-donnees-marches-publics" />
+      <node id="statistiques-dusage-de-lapi-de-geocodage-adresse-data-gouv-fr" label="statistiques-dusage-de-lapi-de-geocodage-adresse-data-gouv-fr" />
+      <node id="donnees-openstreetmap-integrales-de-france-metropolitaine" label="donnees-openstreetmap-integrales-de-france-metropolitaine" />
+      <node id="recensement-des-equipements-sportifs-espaces-et-sites-de-pratiques" label="recensement-des-equipements-sportifs-espaces-et-sites-de-pratiques" />
+      <node id="fichier-fantoir-des-voies-et-lieux-dits" label="fichier-fantoir-des-voies-et-lieux-dits" />
+      <node id="index-des-rues" label="index-des-rues" />
+      <node id="liste-et-localisation-des-musees-de-france" label="liste-et-localisation-des-musees-de-france" />
+      <node id="carte-de-comptages-oise" label="carte-de-comptages-oise" />
+      <node id="trafic-sur-rd-oise" label="trafic-sur-rd-oise" />
+      <node id="registre-parcellaire-graphique-2012-contours-des-ilots-culturaux-et-leur-groupe-de-cultures-majorita" label="registre-parcellaire-graphique-2012-contours-des-ilots-culturaux-et-leur-groupe-de-cultures-majorita" />
+      <node id="impots-locaux" label="impots-locaux" />
+      <node id="zone-daide-a-finalite-regionale-afr" label="zone-daide-a-finalite-regionale-afr" />
+      <node id="zones-daide-a-finalite-regionale-afr-2014-2020" label="zones-daide-a-finalite-regionale-afr-2014-2020" />
+      <node id="base-de-donnees-publique-des-medicaments-base-officielle" label="base-de-donnees-publique-des-medicaments-base-officielle" />
+      <node id="transparence-sante-1" label="transparence-sante-1" />
+      <node id="corpus-darchives-numerisees-des-archives-nationales" label="corpus-darchives-numerisees-des-archives-nationales" />
+      <node id="frequentation-des-musees-de-france" label="frequentation-des-musees-de-france" />
+    </nodes>
+    <edges>
+      <edge id="0" source="base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret" target="entreprises-immatriculees-en-2017" weight="181" />
+      <edge id="1" source="base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret" target="repertoire-national-des-associations-rna" weight="179" />
+      <edge id="2" source="base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret" target="chiffres-cles-2017" weight="166" />
+      <edge id="3" source="base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret" target="cadastre" weight="152" />
+      <edge id="4" source="base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret" target="base-officielle-des-codes-postaux" weight="186" />
+      <edge id="5" source="base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret" target="population" weight="179" />
+      <edge id="6" source="base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret" target="ban-base-adresse-nationale" weight="163" />
+      <edge id="7" source="base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret" target="hauteurs-deau-et-debits-des-cours-deau-observes-en-temps-reel-aux-stations-du-reseau-vigicrues" weight="71" />
+      <edge id="8" source="base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret" target="service-public-fr-annuaire-de-l-administration-base-de-donnees-locales" weight="98" />
+      <edge id="9" source="base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret" target="produits-alimentaires-ingredients-nutrition-labels" weight="104" />
+      <edge id="10" source="base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret" target="geofla-r" weight="29" />
+      <edge id="11" source="base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret" target="adresse-et-geolocalisation-des-etablissements-denseignement-du-premier-et-second-degres" weight="145" />
+      <edge id="12" source="base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret" target="finess-extraction-du-fichier-des-etablissements" weight="113" />
+      <edge id="13" source="base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret" target="liste-publique-des-organismes-de-formation-l-6351-7-1-du-code-du-travail" weight="130" />
+      <edge id="14" source="base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret" target="faits-constates-mensuels-par-departements" weight="265" />
+      <edge id="15" source="base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret" target="marche-du-travail" weight="194" />
+      <edge id="16" source="base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret" target="limites-administratives-francaises-issues-d-openstreetmap" weight="57" />
+      <edge id="17" source="base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret" target="fichier-consolide-des-bornes-de-recharge-pour-vehicules-electriques-irve" weight="78" />
+      <edge id="18" source="base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret" target="base-permanente-des-equipements-1" weight="172" />
+      <edge id="19" source="base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret" target="donnees-openstreetmap-integrales-de-france-metropolitaine" weight="58" />
+      <edge id="20" source="base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret" target="recensement-des-equipements-sportifs-espaces-et-sites-de-pratiques" weight="69" />
+      <edge id="21" source="base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret" target="liste-et-localisation-des-musees-de-france" weight="68" />
+      <edge id="22" source="base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret" target="impots-locaux" weight="58" />
+      <edge id="23" source="entreprises-immatriculees-en-2017" target="chiffres-cles-2017" weight="214" />
+      <edge id="24" source="repertoire-national-des-associations-rna" target="pci-vecteur-plan-cadastral-informatise" weight="24" />
+      <edge id="25" source="repertoire-national-des-associations-rna" target="associations" weight="277" />
+      <edge id="26" source="repertoire-national-des-associations-rna" target="associations-reconnues-d-utilite-publique" weight="177" />
+      <edge id="27" source="chiffres-cles-2017" target="cadastre" weight="18" />
+      <edge id="28" source="cadastre" target="None" weight="190" />
+      <edge id="29" source="cadastre" target="pci-vecteur-plan-cadastral-informatise" weight="1074" />
+      <edge id="30" source="cadastre" target="carte-des-departements-2" weight="19" />
+      <edge id="31" source="cadastre" target="fichier-consolide-des-bornes-de-recharge-pour-vehicules-electriques-irve" weight="99" />
+      <edge id="32" source="cadastre" target="fichier-fantoir-des-voies-et-lieux-dits" weight="31" />
+      <edge id="33" source="base-officielle-des-codes-postaux" target="geofla-r" weight="260" />
+      <edge id="34" source="base-officielle-des-codes-postaux" target="correspondance-code-insee-code-postal" weight="224" />
+      <edge id="35" source="base-officielle-des-codes-postaux" target="decoupage-administratif-communal-francais-issu-d-openstreetmap" weight="143" />
+      <edge id="36" source="base-officielle-des-codes-postaux" target="correspondance-entre-les-codes-postaux-et-codes-insee-des-communes-francaises" weight="398" />
+      <edge id="37" source="base-officielle-des-codes-postaux" target="listes-des-communes-geolocalisees-par-regions-departements-circonscriptions-nd" weight="278" />
+      <edge id="38" source="base-officielle-des-codes-postaux" target="service-public-fr-annuaire-de-l-administration-base-de-donnees-locales" weight="84" />
+      <edge id="39" source="base-officielle-des-codes-postaux" target="base-d-adresses-nationale-ouverte-bano" weight="61" />
+      <edge id="40" source="base-officielle-des-codes-postaux" target="fichier-fantoir-des-voies-et-lieux-dits" weight="38" />
+      <edge id="41" source="geofla-r" target="geofla-limites-des-communes-en-france" weight="65" />
+      <edge id="42" source="correspondance-code-insee-code-postal" target="correspondance-entre-les-codes-postaux-et-codes-insee-des-communes-francaises" weight="259" />
+      <edge id="43" source="correspondance-code-insee-code-postal" target="base-officielle-des-codes-postaux-1" weight="4" />
+      <edge id="44" source="None" target="hauteurs-deau-et-debits-des-cours-deau-observes-en-temps-reel-aux-stations-du-reseau-vigicrues" weight="56" />
+      <edge id="45" source="None" target="repertoire-des-logements-locatifs-des-bailleurs-sociaux-rpls" weight="19" />
+      <edge id="46" source="pci-vecteur-plan-cadastral-informatise" target="registre-parcellaire-graphique-rpg-contours-des-ilots-culturaux-et-leur-groupe-de-cultures-majoritaire" weight="38" />
+      <edge id="47" source="pci-vecteur-plan-cadastral-informatise" target="fichier-fantoir-des-voies-et-lieux-dits" weight="38" />
+      <edge id="48" source="decoupage-administratif-communal-francais-issu-d-openstreetmap" target="geofla-limites-des-communes-en-france" weight="177" />
+      <edge id="49" source="decoupage-administratif-communal-francais-issu-d-openstreetmap" target="limites-administratives-francaises-issues-d-openstreetmap" weight="162" />
+      <edge id="50" source="decoupage-administratif-communal-francais-issu-d-openstreetmap" target="contours-des-departements-francais-issus-d-openstreetmap" weight="166" />
+      <edge id="51" source="decoupage-administratif-communal-francais-issu-d-openstreetmap" target="contours-des-regions-francaises-sur-openstreetmap" weight="114" />
+      <edge id="52" source="geofla-limites-des-communes-en-france" target="limites-administratives-francaises-issues-d-openstreetmap" weight="63" />
+      <edge id="53" source="limites-administratives-francaises-issues-d-openstreetmap" target="contours-osm-des-cantons-electoraux-departementaux-2015" weight="68" />
+      <edge id="54" source="limites-administratives-francaises-issues-d-openstreetmap" target="contours-geographiques-des-academies" weight="65" />
+      <edge id="55" source="limites-administratives-francaises-issues-d-openstreetmap" target="stations-et-gares-de-metro-rer-et-tramway-de-la-region-ile-de-france" weight="44" />
+      <edge id="56" source="limites-administratives-francaises-issues-d-openstreetmap" target="donnees-openstreetmap-integrales-de-france-metropolitaine" weight="67" />
+      <edge id="57" source="population" target="marche-du-travail" weight="89" />
+      <edge id="58" source="population" target="liste-et-localisation-des-musees-de-france" weight="61" />
+      <edge id="59" source="troncons-de-cours-deau-vigicrues-simplifies-avec-niveau-de-vigilance-crues-2" target="hauteurs-deau-et-debits-des-cours-deau-observes-en-temps-reel-aux-stations-du-reseau-vigicrues" weight="459" />
+      <edge id="60" source="ban-base-adresse-nationale" target="service-public-fr-annuaire-de-l-administration-base-de-donnees-locales" weight="69" />
+      <edge id="61" source="ban-base-adresse-nationale" target="base-d-adresses-nationale-ouverte-bano" weight="86" />
+      <edge id="62" source="ban-base-adresse-nationale" target="fichier-fantoir-des-voies-et-lieux-dits" weight="31" />
+      <edge id="63" source="contours-des-departements-francais-issus-d-openstreetmap" target="carte-des-departements-2" weight="147" />
+      <edge id="64" source="contours-des-departements-francais-issus-d-openstreetmap" target="contours-des-regions-francaises-sur-openstreetmap" weight="125" />
+      <edge id="65" source="service-public-fr-annuaire-de-l-administration-base-de-donnees-locales" target="referentiel-de-lorganisation-administrative-de-letat" weight="63" />
+      <edge id="66" source="fichier-des-prenoms-edition-2016" target="repertoire-des-logements-locatifs-des-bailleurs-sociaux-rpls" weight="19" />
+      <edge id="67" source="base-de-donnees-accidents-corporels-de-la-circulation" target="base-de-donnees-des-accidents-corporels-de-la-circulation" weight="92" />
+      <edge id="68" source="data-insee-sur-les-communes" target="balances-comptables-des-communes" weight="26" />
+      <edge id="69" source="monuments-historiques-liste-des-immeubles-proteges-au-titre-des-monuments-historiques" target="immeubles-proteges-au-titre-des-monuments-historiques" weight="193" />
+      <edge id="70" source="immeubles-proteges-au-titre-des-monuments-historiques" target="corpus-darchives-numerisees-des-archives-nationales" weight="10" />
+      <edge id="71" source="immeubles-proteges-au-titre-des-monuments-historiques" target="frequentation-des-musees-de-france" weight="10" />
+      <edge id="72" source="associations-reconnues-d-utilite-publique" target="fondations-reconnues-d-utilite-publique" weight="109" />
+      <edge id="73" source="registre-parcellaire-graphique-rpg-contours-des-ilots-culturaux-et-leur-groupe-de-cultures-majoritaire" target="referentiel-a-grande-echelle-rge" weight="37" />
+      <edge id="74" source="registre-parcellaire-graphique-rpg-contours-des-ilots-culturaux-et-leur-groupe-de-cultures-majoritaire" target="registre-parcellaire-graphique-2012-contours-des-ilots-culturaux-et-leur-groupe-de-cultures-majorita" weight="100" />
+      <edge id="75" source="marche-du-travail" target="base-permanente-des-equipements-1" weight="143" />
+      <edge id="76" source="base-d-adresses-nationale-ouverte-bano" target="fichier-fantoir-des-voies-et-lieux-dits" weight="36" />
+      <edge id="77" source="contours-osm-des-cantons-electoraux-departementaux-2015" target="donnees-openstreetmap-integrales-de-france-metropolitaine" weight="58" />
+      <edge id="78" source="contours-geographiques-des-academies" target="donnees-openstreetmap-integrales-de-france-metropolitaine" weight="56" />
+      <edge id="79" source="fichier-consolide-des-bornes-de-recharge-pour-vehicules-electriques-irve" target="referentiel-de-donnees-marches-publics" weight="71" />
+      <edge id="80" source="fichier-consolide-des-bornes-de-recharge-pour-vehicules-electriques-irve" target="statistiques-dusage-de-lapi-de-geocodage-adresse-data-gouv-fr" weight="70" />
+      <edge id="81" source="fichier-fantoir-des-voies-et-lieux-dits" target="index-des-rues" weight="26" />
+      <edge id="82" source="carte-de-comptages-oise" target="trafic-sur-rd-oise" weight="113" />
+      <edge id="83" source="zone-daide-a-finalite-regionale-afr" target="zones-daide-a-finalite-regionale-afr-2014-2020" weight="27" />
+      <edge id="84" source="base-de-donnees-publique-des-medicaments-base-officielle" target="transparence-sante-1" weight="45" />
+    </edges>
+  </graph>
+</gexf>
